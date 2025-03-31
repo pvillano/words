@@ -1,0 +1,26 @@
+{
+  "name": "@pvillano/words",
+  "version": "0.0.0",
+  "description": "A utility for all english word processing",
+  "keywords": [],
+  "homepage": "https://github.com/pvillano/words#readme",
+  "bugs": {
+    "url": "https://github.com/pvillano/words/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvillano/words.git"
+  },
+  "license": "ISC",
+  "author": "Peter Villano",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
