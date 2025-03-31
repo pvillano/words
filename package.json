@@ -21,6 +21,10 @@
     "prepublish": "tsc"
   },
   "devDependencies": {
-    "typescript": "^5.8.2"
+    "@eslint/js": "latest",
+    "eslint": "latest",
+    "globals": "latest",
+    "typescript": "latest",
+    "typescript-eslint": "latest"
   }
 }
